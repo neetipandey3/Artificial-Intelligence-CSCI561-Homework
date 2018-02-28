@@ -22,8 +22,8 @@ To find the solution, use the following algorithms:
 
 Implement a zero sum two player game in which each player tries to maximize his/her share from a batch of fruits randomly placed in a box. The box is divided into cells and each cell is either empty or filled with one fruit of a specific type. Once an agent picks the fruits from the cells, their empty place will be filled with other fruits on top of them (which fall down due to gravity), if any. Every agent has a limited amount of time to spend for thinking during the whole game. The overall score of each player is the sum of rewards gained for every turn. The game will terminate when there is no fruit left in the box or when a player has run out of time.
 
-Implement 3 agents:
-- Random agent: selects a random legal move on each turn.
+Implement 2 agents:
+- Random agent: selects a random legal move on each turn
 - Minimax agent with no alpha-beta and lookahead depth limited to 3
 
 **Python 3.4**

@@ -1,4 +1,4 @@
-## Homework 1
+## Homework 1 - (N Queens)
 
 *CSCI-561 - Fall 2017 - Foundations of Artificial Intelligence* 
 
@@ -38,4 +38,5 @@ Implement 3 agents:
 
 Implemnet a highly optimized ineference engine. Create the Knowledge Base and use FOL Resolution for each input query
 
+**Python 3.4**
 
